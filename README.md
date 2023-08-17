@@ -8,4 +8,4 @@
  
  I'm a **Cloud Solution Engineer** at **Wanclouds Inc**.
 
- You can also find me on [LinkedIn](https://www.linkedin.com/in/murtaza-anwar/) or [Mastodon]()
+ You can also find me on [LinkedIn](https://www.linkedin.com/in/murtaza-anwar/) or <a rel="me" href="https://mastodon.social/@murtazaA69">Mastodon</a>
